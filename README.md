@@ -30,6 +30,14 @@ and another predictive regression model with two vectors of predictors, $x_{1t-1
 
 $$y_t = x_{1t-1}^{\prime} \beta_1 + x_{2t-1}^{\prime} \beta_2 + v_t.$$
 
+## Examples
+
+Lets load the Dataset in R:
+
+```R
+
+```
+
 ## Key References
 
 [1] Pitarakis, Jean-Yves (2020). "A Novel Approach to Predictive Accuracy Testing in Nested Environments." arXiv preprint [arXiv:2008.08387](https://arxiv.org/abs/2008.08387).
