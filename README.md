@@ -14,3 +14,7 @@ The R package will be able to be installed from Github.
 
 [2] Katsouris, C. (2021). "Forecast Evaluation in Large Cross-Sections of Realized Volatility". arXiv preprint [arXiv:2112.04887](https://arxiv.org/abs/2112.04887).
 
+## Declerations
+
+The author declares no conflicts of interest.
+
