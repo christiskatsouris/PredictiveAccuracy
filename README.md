@@ -2,7 +2,7 @@
 
 ## Predictive Accuracy Testing in Predictive Regression Models 
 
-Description: This R package aims to implement predictive accuracy statistical testing for nested environments of predictive regression models. Further, extensions of the proposed testing methodology includes the following: 
+Description: This R package aims to implement predictive accuracy statistical testing for nested environments of predictive regression models. Applications of the proposed testing methodology includes the following: 
 
 - Predictive Accuracy Testing in Cross-Sectional Regressions using Lasso-type regularization.
 - Predictive Accuracy and Parameter Instability Testing in Predictive Regressions.  
