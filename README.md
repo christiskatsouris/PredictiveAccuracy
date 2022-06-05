@@ -9,7 +9,7 @@ Description: This R package aims to implement predictive accuracy statistical te
 
 ## Installation (under development)
 
-The R package will be able to be installed from Github.
+The R package ‘PredictiveAccuracy’ will be able to be installed from Github.
 
 ## Key References
 
