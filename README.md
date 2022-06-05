@@ -11,6 +11,18 @@ Description: This R package aims to implement predictive accuracy statistical te
 
 The R package ‘PredictiveAccuracy’ will be able to be installed from Github.
 
+## Usage 
+
+```R
+
+# After development the package will be able to be installed using
+install.packages("PredictiveAccuracy")
+library(PredictiveAccuracy)
+
+```
+
+$$y_t = \rho y_{t-1} + e_t, \ \ \ 0< \rho < 1, \ \ \ t = 1,...,n, \ \ \ e_t \sim N (0,1).$$
+
 ## Key References
 
 [1] Pitarakis, Jean-Yves (2020). "A Novel Approach to Predictive Accuracy Testing in Nested Environments." arXiv preprint [arXiv:2008.08387](https://arxiv.org/abs/2008.08387).
