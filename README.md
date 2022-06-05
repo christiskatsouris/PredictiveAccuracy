@@ -36,6 +36,11 @@ Lets load the Dataset in R:
 
 ```R
 
+# Data Example 1: Exchange Rate Dataset from Pitarakis JY (2020)
+
+
+# Data Example 2: Tenet Dataset from Hardle et al. (2016)
+
 ```
 
 ## Key References
