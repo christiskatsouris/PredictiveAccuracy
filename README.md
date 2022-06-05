@@ -21,7 +21,7 @@ library("PredictiveAccuracy")
 
 ```
 
-Consider the following predictive regression model with a set of predictors $$x_{1t-1}$$ 
+Consider the following predictive regression model with a set of predictors $x_{1t-1}$ 
 
 $$y_t = x_{1t-1}^{\prime} \delta_1 + u_t$$ 
 
