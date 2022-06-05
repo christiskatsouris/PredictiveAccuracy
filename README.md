@@ -49,6 +49,10 @@ Lets load the Dataset in R:
 
 [2] Katsouris, C. (2021). "Forecast Evaluation in Large Cross-Sections of Realized Volatility". arXiv preprint [arXiv:2112.04887](https://arxiv.org/abs/2112.04887).
 
+## Code of Coduct
+
+Please note that the ‘PredictiveAccuracy’ project will be released with a Contributor Code of Coduct (under construction). By contributing to this project, you agree to abide by its terms.
+
 ## Declerations
 
 The author declares no conflicts of interest.
