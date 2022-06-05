@@ -17,11 +17,14 @@ The R package ‘PredictiveAccuracy’ will be able to be installed from Github.
 
 # After development the package will be able to be installed using
 install.packages("PredictiveAccuracy")
-library(PredictiveAccuracy)
+library("PredictiveAccuracy")
 
 ```
 
-$$y_t = \rho y_{t-1} + e_t, \ \ \ 0< \rho < 1, \ \ \ t = 1,...,n, \ \ \ e_t \sim N (0,1).$$
+Consider the following predictive regression models 
+
+$$y_t = x_{1t-1}^{\prime} \delta_1 + u_t, \\
+y_t = x_{1t-1}^{\prime} \beta_1 + x_{2t-1}^{\prime} \beta_2 + v_t.$$
 
 ## Key References
 
@@ -33,4 +36,3 @@ $$y_t = \rho y_{t-1} + e_t, \ \ \ 0< \rho < 1, \ \ \ t = 1,...,n, \ \ \ e_t \sim
 
 The author declares no conflicts of interest.
 
-In particular, the author declares that has no affiliations with or involvement in any organization or entity with any financial interest (such as honoraria; educational grants; participation in speakers’ bureaus; membership, employment, consultancies, stock ownership, or other equity interest; and expert testimony or patent-licensing arrangements), or non-financial interest (such as personal or professional relationships, affiliations, knowledge or beliefs) in the subject matter or materials discussed in the manuscript and implemented in the R package.
