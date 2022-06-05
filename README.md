@@ -20,6 +20,7 @@ install.packages("PredictiveAccuracy")
 library("PredictiveAccuracy")
 
 ```
+## Methodology
 
 Consider the following predictive regression model with a set of predictors $x_{1t-1}$ such that
 
