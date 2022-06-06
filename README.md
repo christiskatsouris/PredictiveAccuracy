@@ -2,10 +2,7 @@
 
 ## Predictive Accuracy Testing in Predictive Regression Models 
 
-Description: This R package aims to implement the predictive accuracy testing methodology for nested environments of predictive regression models proposed by [Pitarakis JY (2020)](https://arxiv.org/abs/2008.08387). Furthermore, we consider further applications of the proposed testing methodology which includes: 
-
-- Predictive Accuracy Testing in Cross-Sectional Regressions using Lasso-type regularization.
-- Predictive Accuracy and Parameter Instability Testing in Predictive Regressions.  
+Description: This R package aims to implement the predictive accuracy testing methodology for nested environments of predictive regression models proposed by [Pitarakis JY (2020)](https://arxiv.org/abs/2008.08387). Furthermore, we aim to consider further applications of the proposed testing methodology which includes other useful features for robust estimation and inference.   
 
 ## Installation (under development)
 
@@ -39,7 +36,7 @@ Lets load the Dataset in R:
 # Data Example 1: Exchange Rate Dataset from Pitarakis JY (2020)
 
 
-# Data Example 2: Tenet Dataset from Hardle et al. (2016)
+
 
 ```
 
