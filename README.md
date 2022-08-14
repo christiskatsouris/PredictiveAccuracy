@@ -23,11 +23,11 @@ library("PredictiveAccuracy")
 
 Consider the following predictive regression model with a set of predictors $x_{1t-1}$ such that
 
-$$y_t = x_{1t-1}^{\prime} \delta_1 + u_t$$ 
+$$y_t = \delta_1^{\prime} x_{1t-1} + u_t$$ 
 
 and another predictive regression model with two vectors of predictors, $x_{1t-1}$ and $x_{2t-1}$ such that 
 
-$$y_t = x_{1t-1}^{\prime} \beta_1 + x_{2t-1}^{\prime} \beta_2 + v_t.$$
+$$y_t = \beta_1^{\prime}x_{1t-1} + \beta_2^{\prime} x_{2t-1} + v_t.$$
 
 ## Examples
 
