@@ -54,3 +54,13 @@ Please note that the ‘PredictiveAccuracy’ project will be released with a Co
 
 The author declares no conflicts of interest.
 
+# Historical Background
+
+> Standing on the shoulders of giants.
+> 
+> $\textit{''If I have been able to see further, it was only because I stood on the shoulders of giants."}$
+> $- \text{Isaac Newton, 1676}$ 
+
+$\textbf{Hirotugu Akaike}$ November 5, 1927 – August 4, 2009) was a Japanese statistician. In the early 1970s, he formulated the Akaike information criterion (AIC). AIC is now widely used for model selection, which is commonly the most difficult aspect of statistical inference; additionally, AIC is the basis of a paradigm for the foundations of statistics. Akaike also made major contributions to the study of time series. As well, he had a large role in the general development of statistics in Japan. The Akaike information criterion (AIC) is an estimator of the relative quality of statistical models for a given set of data. Given a collection of models for the data, AIC estimates the quality of each model, relative to each of the other models. Thus, AIC provides a means for model selection. In particular, AIC was first formally described in a research paper by [Akaike (1974)](https://ieeexplore.ieee.org/abstract/document/1100705) which as of August 2022 it has been cited 58568 times. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Hirotugu_Akaike)).
+
+
