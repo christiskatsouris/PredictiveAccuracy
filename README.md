@@ -4,7 +4,7 @@
 
 ### Description
 
-This R package aims to implement the predictive accuracy testing methodology for nested environments of predictive regression models proposed by [Pitarakis, J-Y. (2020)](https://arxiv.org/abs/2008.08387). Furthermore, we consider further applications of the proposed testing methodology which includes other useful features for robust estimation and inference such as the implementation of the tests to the modeling environment studied by  [Katsouris, C. (2021b)](https://arxiv.org/abs/2112.04887) who consider an application of forecast evaluation in large cross-sections of realized volatility measures using lasso shrinkage estimators.   
+This R package aims to implement the predictive accuracy testing methodology for nested environments of predictive regression models proposed by [Pitarakis, J-Y. (2020)](https://arxiv.org/abs/2008.08387). Moreover, we consider applications of the proposed testing methodology which includes useful features for robust estimation and inference such as the implementation of the tests to the modeling environment studied by  [Katsouris, C. (2021b)](https://arxiv.org/abs/2112.04887) who consider an application of forecast evaluation in large cross-sections of realized volatility measures using lasso shrinkage estimators.   
 
 ### Methodology
 
