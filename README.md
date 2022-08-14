@@ -6,6 +6,16 @@
 
 This R package aims to implement the predictive accuracy testing methodology for nested environments of predictive regression models proposed by [Pitarakis JY (2020)](https://arxiv.org/abs/2008.08387). Furthermore, we aim to consider further applications of the proposed testing methodology which includes other useful features for robust estimation and inference.   
 
+### Methodology
+
+Consider the following predictive regression model with a set of predictors $x_{1t-1}$ such that
+
+$$y_t = \delta_1^{\prime} x_{1t-1} + u_t$$ 
+
+and another predictive regression model with two vectors of predictors, $x_{1t-1}$ and $x_{2t-1}$ such that 
+
+$$y_t = \beta_1^{\prime}x_{1t-1} + \beta_2^{\prime} x_{2t-1} + v_t.$$
+
 ## Installation (under development)
 
 The R package ‘PredictiveAccuracy’ will be able to be installed from Github.
@@ -19,15 +29,6 @@ install.packages("PredictiveAccuracy")
 library("PredictiveAccuracy")
 
 ```
-## Methodology
-
-Consider the following predictive regression model with a set of predictors $x_{1t-1}$ such that
-
-$$y_t = \delta_1^{\prime} x_{1t-1} + u_t$$ 
-
-and another predictive regression model with two vectors of predictors, $x_{1t-1}$ and $x_{2t-1}$ such that 
-
-$$y_t = \beta_1^{\prime}x_{1t-1} + \beta_2^{\prime} x_{2t-1} + v_t.$$
 
 ## Examples
 
@@ -36,7 +37,6 @@ Lets load the Dataset in R:
 ```R
 
 # Data Example 1: Exchange Rate Dataset from Pitarakis JY (2020)
-
 
 
 
