@@ -18,7 +18,7 @@ $$y_t = \beta_1^{\prime}x_{1t-1} + \beta_2^{\prime} x_{2t-1} + v_t.$$
 
 ## Installation (under development)
 
-The R package ‘PredictiveAccuracy’ will be able to be installed from Github.
+The R package [‘PredictiveAccuracy’](https://github.com/christiskatsouris/PredictiveAccuracy) will be able to be installed from Github.
 
 ## Usage 
 
