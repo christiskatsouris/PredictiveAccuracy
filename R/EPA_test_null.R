@@ -1,20 +1,19 @@
 ###########################################
-R Script Details:
+# R Script Details:
 ###########################################
 
-Script name: EPA_test_null.R
+# Script name: EPA_test_null.R
+# Program aim: This R program estimates forecasting sequences for cross-sectional HAR models.  
 
-Program aim: This R program estimates of the Risk Matrix before symmetrization.  
+# written by: 
 
-written by: 
+# Christis G. Katsouris
+# Department of Economics
+# University of Southampton
+# Southampton, United Kingdom
 
-Christis G. Katsouris
-Department of Economics
-University of Southampton
-Southampton, United Kingdom
-
-This program reproduces the empirical application presented in the paper: 
-Katsouris, C. (2021b). "Forecast Evaluation in Large Cross-Sections of Realized Volatility". arXiv:2112.04887. 
+# This program reproduces the empirical application presented in the paper: 
+# Katsouris, C. (2021b). "Forecast Evaluation in Large Cross-Sections of Realized Volatility". arXiv:2112.04887. 
 
 ############################################################################
 ### REQUIRED PACKAGES
