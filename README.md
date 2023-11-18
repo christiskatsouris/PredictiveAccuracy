@@ -36,7 +36,7 @@ Lets load the Dataset in R:
 
 ```R
 
-# Data Example 1: Exchange Rate Dataset from Pitarakis JY (2020)
+# Data Example 1: 
 
 
 
