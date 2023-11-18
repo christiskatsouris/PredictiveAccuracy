@@ -1,6 +1,6 @@
 # PredictiveAccuracy
 
-## Predictive Accuracy Testing in Predictive Regression Models 
+## Inferring Predictive Accuracy in Nested Predictive Regressions Robust Against Parameter Instability 
 
 ### Description
 
