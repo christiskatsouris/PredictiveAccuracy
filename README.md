@@ -4,7 +4,7 @@
 
 ### Description
 
-This R package aims to implement the predictive accuracy testing methodology for nested environments of predictive regression models proposed by [Pitarakis, J-Y. (2020)](https://arxiv.org/abs/2008.08387). Moreover, we consider applications of the proposed testing methodology which includes useful features for robust estimation and inference such as the implementation of the tests to the modeling environment studied by  [Katsouris, C. (2021b)](https://arxiv.org/abs/2112.04887) who consider an application of forecast evaluation in large cross-sections of realized volatility measures using lasso shrinkage estimators.   
+This R package aims to implement the predictive accuracy against parameter instability testing methodology for nested environments of predictive regression models studied by Katsouris, 2023 based on the framework of [Pitarakis, J-Y. (2020)](https://arxiv.org/abs/2008.08387). Moreover, we consider applications of the proposed testing methodology which includes useful features for robust estimation and inference such as the implementation of the tests to the modeling environment studied by  [Katsouris, C. (2021b)](https://arxiv.org/abs/2112.04887) who consider an application of forecast evaluation in large cross-sections of realized volatility measures using lasso shrinkage estimators.   
 
 ### Methodology
 
@@ -44,13 +44,20 @@ Lets load the Dataset in R:
 
 ## Key References
 
-$\textbf{[1]}$ Pitarakis, Jean-Yves (2020). "A Novel Approach to Predictive Accuracy Testing in Nested Environments." arXiv preprint [arXiv:2008.08387](https://arxiv.org/abs/2008.08387).
+$\textbf{[1]}$ Katsouris, C. (2023). "Inferring Predictive Accuracy in Nested Predictive Regressions Robust against Parameter Instability". Working paper, Faculty of Social Sciences, University of Helsinki.
 
 $\textbf{[2]}$ Katsouris, C. (2021). "Forecast Evaluation in Large Cross-Sections of Realized Volatility". arXiv preprint [arXiv:2112.04887](https://arxiv.org/abs/2112.04887).
+
+$\textbf{[3]}$ Pitarakis, Jean-Yves (2020). "A Novel Approach to Predictive Accuracy Testing in Nested Environments." arXiv preprint [arXiv:2008.08387](https://arxiv.org/abs/2008.08387).
+
 
 ## Code of Coduct
 
 Please note that the ‘PredictiveAccuracy’ project will be released with a Contributor Code of Coduct (under construction). By contributing to this project, you agree to abide by its terms.
+
+## Acknowledgments
+
+Financial support from the Research Council of Finland (grant number 347986) is gratefully acknowledged.
 
 ## Declerations
 
